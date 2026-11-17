@@ -1,0 +1,13 @@
+# Практическая работа № 1
+
+Прогнозирование оттока клиентов Telco Customer Churn.
+
+Файл работы: [Praktika_1_simple.ipynb](Praktika_1_simple.ipynb).
+
+[Открыть в Google Colab](https://colab.research.google.com/github/nutellus/IS_PARA_1811/blob/main/Praktika_1_simple.ipynb)
+
+Для запуска открыть блокнот в Colab и нажать «Выполнить всё». CSV загружается автоматически. В файле сохранены результаты, таблицы и графики.
+
+Сравниваются логистическая регрессия, дерево решений и метод k ближайших соседей. Данные разделены на обучение и тест в пропорции 75/25 с random_state=42.
+
+Датасет: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
